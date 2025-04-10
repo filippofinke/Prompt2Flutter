@@ -17,7 +17,8 @@
 
 Watch the demonstration video:
 
-https://github.com/filippofinke/Prompt2Flutter/raw/main/demo/demo.mp4
+https://github.com/user-attachments/assets/6c42a693-eb9e-44ac-923a-790a1cab8e91
+
 
 ## Installation
 
