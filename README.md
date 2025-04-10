@@ -17,8 +17,7 @@
 
 Watch the demonstration video:
 
-https://github.com/user-attachments/assets/6c42a693-eb9e-44ac-923a-790a1cab8e91
-
+https://github.com/user-attachments/assets/f9f9e259-8f7e-40d7-966d-4245f8830b51
 
 ## Installation
 
